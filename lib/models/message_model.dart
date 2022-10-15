@@ -14,7 +14,7 @@ class Message {
     Message(
       senderId: '1',
       recipientId: '2',
-      text: 'hello my son',
+      text: 'Good Morning ',
       createdAt: DateTime(2022, 08, 01, 10, 10, 10).add(
        const Duration(seconds: 30),
       ),
@@ -23,7 +23,7 @@ class Message {
     Message(
       senderId: '2',
       recipientId: '1',
-      text: 'im workin nw',
+      text: 'Good Morning',
       createdAt: DateTime(2022, 08, 01, 11, 10, 10).add(
         const Duration(seconds: 15),
       ),
@@ -32,7 +32,16 @@ class Message {
     Message(
       senderId: '3',
       recipientId: '1',
-      text: 'hello my broooooooooooo',
+      text: 'Good Night',
+      createdAt: DateTime(2022, 09, 01, 10, 10, 10).add(
+        const Duration(seconds: 55),
+      ),
+    ),
+
+    Message(
+      senderId: '1',
+      recipientId: '3',
+      text: 'Good Night Bro ',
       createdAt: DateTime(2022, 09, 01, 10, 10, 10).add(
         const Duration(seconds: 55),
       ),
