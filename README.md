@@ -1,5 +1,7 @@
 # chat_ap_ui
 
+![](lib/images/dark.png
+
 A new Flutter project.
 
 ## Getting Started
