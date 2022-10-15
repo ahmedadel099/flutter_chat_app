@@ -1,8 +1,15 @@
-# chat_ap_ui
 
-![](lib/images/dark.png
+## Flutter Chat App Ui 
 
-A new Flutter project.
+## Dark Mode 
+
+![](lib/images/dark.jpg)
+
+## Light Mode
+
+![](lib/images/light.jpg)
+
+
 
 ## Getting Started
 
